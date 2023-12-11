@@ -24,6 +24,6 @@
 
 
 ## **My newest (worth investigating)**
-- 🐧 [netflix_copy](https://github.com/KacperMajcher/netflix_copy)
-- 🐰 [movies_list](https://github.com/KacperMajcher/movies_list)
-- 🐣 [RatingProject](https://github.com/KacperMajcher/rating)
+### 🐧 [netflix_copy](https://github.com/KacperMajcher/netflix_copy)
+### 🐰 [movies_list](https://github.com/KacperMajcher/movies_list)
+### 🐣 [RatingProject](https://github.com/KacperMajcher/rating)
