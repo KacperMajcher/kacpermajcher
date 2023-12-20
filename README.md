@@ -30,6 +30,6 @@
 </p>
 
 ## **My newest (worth investigating)**
-### 🐧 [netflix_copy](https://github.com/KacperMajcher/netflix_copy) (currently working on)
+### 🐧 [netflix_copy](https://github.com/KacperMajcher/netflix_copy) (in progress)
 ### 🐰 [movies_list](https://github.com/KacperMajcher/movies_list)
 ### 🐣 [RatingProject](https://github.com/KacperMajcher/rating)
