@@ -5,8 +5,6 @@
 
 - I’m currently working on **Believers App (private repo)**
 
-- I’m currently mastering **BLoC and Testing**
-
 - Feel free to ask
 
 - How to reach me **dev.kacpermajcher@gmail.com**
