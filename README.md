@@ -3,11 +3,11 @@
 <h3 align="center">A passionate flutter developer</h3>
 <img align="right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/1891782/screenshots/14640979/media/2e5fb568fc88a3a0b490852ac936b8d4.png">
 
-- I’m currently working on **Believers App (private repo)**
-
 - Feel free to ask
 
 - How to reach me **dev.kacpermajcher@gmail.com**
+
+- I’m currently working on **Believers App **(private repo)** for 360 Software House**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
