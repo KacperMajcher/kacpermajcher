@@ -1,5 +1,6 @@
-![MasterHead](https://res.cloudinary.com/dsxbnby76/image/upload/v1682337442/flutter_d9bc7de1f4_94d99c8220.png)
-<h1 align="center">Hi 👋, I'm Kacper Majcher</h1>
+![MasterHead](https://github.com/KacperMajcher/kacpermajcher/assets/142928291/2f94f280-7d68-40a3-b58a-a31d7b9cda07)
+<h1 align="center">Hi 👋, I'm Kacper!</h1>
+
 <h3 align="center">A passionate flutter developer</h3>
 <img align="right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/1891782/screenshots/14640979/media/2e5fb568fc88a3a0b490852ac936b8d4.png">
 
