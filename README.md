@@ -10,8 +10,6 @@
 
 - I’m currently working on **Believers App **(private repo)** for 360 Software House**
 
-- Ending exam session in a few days, stay tuned!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
