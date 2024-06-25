@@ -8,7 +8,7 @@
 
 - How to reach me **dev.kacpermajcher@gmail.com**
 
-- I’m currently working on **Believers App** (private repo)  **for 360 Software House**
+- I’m currently working on **Believers App** and **LogToLife** (private repos)  **for 360 Software House**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
