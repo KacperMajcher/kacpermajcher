@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - 🔥 **Currently working on:**  
-  Wrapping up the **Believers App** for **360 Software House**, and pushing boundaries with **Epic Plays** for **EpicApps**.
+  Wrapping up the **Believers App** for **360 Software House**, and pushing boundaries with **Epic Plays** with **EpicApps**.
   
 - 💬 **Ask me about:**  
   Flutter, Dart, Firebase, and creating intuitive mobile apps.
