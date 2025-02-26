@@ -8,9 +8,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="vertical-align: middle;" />
   <a href="https://www.epicplays.co/" target="_blank">
     <img src="https://raw.githubusercontent.com/DexVlog/db/main/epicplays_avatar.png" alt="Epic Plays Logo" height="25" style="vertical-align: middle;">
-
-  <a href="https://360softwarehouse.com/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFc96fjesLnmQ/company-logo_200_200/company-logo_200_200/0/1692382140357?e=1740009600&v=beta&t=U83SUMaaVkzhJr_Rewmrtv0DzO1HbOqc35qETHsRBbg" alt="Facebook" height="25" style="vertical-align: middle;">
   </a>
 </h3>
 
