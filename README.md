@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔥 **Currently working pushing boundaries with **Epic Plays** with **EpicApps**.
+- 🔥 Currently pushing boundaries at **Epic Plays**.
   
 - 💬 **Ask me about:**  
   Flutter, Dart, Firebase, and creating intuitive mobile apps.
