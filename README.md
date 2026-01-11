@@ -19,9 +19,9 @@ Flutter Developer with **3+ years of experience** and a strong product mindset. 
 Currently working as **Flutter Developer & Product Engineer** at **[Epic Plays](https://www.epicplays.co/)**, where I'm pushing the boundaries of mobile development and delivering business value through clean, scalable code.
 
 **🎓 Education**
-Andrzej Frycz Modrzewski Krakow University (2021-2025)
+**Andrzej Frycz Modrzewski Krakow University** (2021-2025)
 Computer Science and Econometrics • **GPA: 4.5/5.0**
-Thesis: *"The use of unit tests in the development process of mobile applications using Flutter"*
+*Thesis: ["The use of unit tests in the development process of mobile applications using Flutter"](http://github.com/KacperMajcher/thesis_app)*
 
 ---
 
